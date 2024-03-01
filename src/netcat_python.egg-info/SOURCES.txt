@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/netcat/__init__.py
+src/netcat/netcat.py
+src/netcat_python.egg-info/PKG-INFO
+src/netcat_python.egg-info/SOURCES.txt
+src/netcat_python.egg-info/dependency_links.txt
+src/netcat_python.egg-info/top_level.txt

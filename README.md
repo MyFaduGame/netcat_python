@@ -1,0 +1,38 @@
+# Netcat Build in Python
+
+## Overview
+Netcat is a versatile networking utility that reads and writes data across network connections, using the TCP/IP protocol. This Python version of Netcat, named Netbyte, offers similar functionality to the traditional Netcat tool. It facilitates probing proprietary TCP and UDP services, providing formatted output and supporting interactive communication.
+
+## Features
+- **Lightweight**: Netbyte is designed to be lightweight, making it efficient for various networking tasks.
+- **Interactive**: Users can interact with network services in real-time, allowing for dynamic communication.
+- **TCP and UDP Support**: Netbyte supports both TCP and UDP protocols, enabling versatile networking operations.
+- **Formatted Output**: The tool provides formatted output, enhancing readability and usability.
+
+## Usage
+Netbyte can be used for a variety of networking tasks, including:
+- Probing services to check for open ports
+- Testing network connectivity
+- Transferring files over TCP/IP connections
+- Sending commands to remote hosts
+
+## Installation
+To use Netbyte, follow these steps:
+1. Clone the Netbyte repository from [GitHub](https://github.com/myfadugame/netcat_python).
+2. Ensure you have Python installed on your system.
+3. Run the Netbyte script using Python: `python netbyte.py`.
+4. Start exploring the various networking capabilities of Netbyte.
+
+## Contributing
+Contributions to netcat_python are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Please ensure your code adheres to the project's coding standards and includes appropriate documentation.
+
+## License
+Netbyte is licensed under the MIT License. See the [LICENSE](https://github.com/myfadugame/netcat_python/blob/master/LICENSE) file for details.
+
+## Contact
+For questions, feedback, or support, please contact the project maintainer at [maintainer@example.com](mailto:navinsharma9376319931).
+
+## Authors
+
+- [@MyFaduGame](https://www.github.com/myfadugame)
+
